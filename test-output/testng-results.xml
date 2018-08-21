@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46597" started-at="2018-08-16T15:54:38Z" finished-at="2018-08-16T15:55:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46597" started-at="2018-08-16T15:54:38Z" finished-at="2018-08-16T15:55:25Z">
+      <class name="com.keyboarddriven.Loginusingkeywords">
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:com.keyboarddriven.Loginusingkeywords@6d00a15d]" name="logInTest" duration-ms="46561" started-at="2018-08-16T21:24:38Z" finished-at="2018-08-16T21:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+      </class> <!-- com.keyboarddriven.Loginusingkeywords -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
